@@ -475,11 +475,6 @@ public class FlightBooking
     public void setTripDestination(String string) 
     {
     
-    }
-
-    
-     
-     
-     
+    }    
 
 }
