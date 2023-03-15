@@ -1,3 +1,5 @@
+package prog2.exercise5.flight.booking.system;
+
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.Random;
